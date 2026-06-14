@@ -1,5 +1,3 @@
-# Sistema de Controle de Estacionamento
-
 ## Integrantes
 
 * Maurício Tolosa
