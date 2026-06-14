@@ -3,8 +3,6 @@
 ## Integrantes
 
 * Maurício Tolosa
-* Integrante 2
-* Integrante 3
 
 ## Como Rodar o Programa
 
